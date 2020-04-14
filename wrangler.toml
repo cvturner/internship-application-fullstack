@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cloudflare-fullstack"
 type = "javascript"
-account_id = ""
+account_id = "eaac6079ed8ad2fb9ff425e612f784e7"
 workers_dev = true
 route = ""
 zone_id = ""
